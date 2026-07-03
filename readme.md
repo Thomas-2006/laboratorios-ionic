@@ -2,7 +2,7 @@
 
 ## Información del Estudiante
 
-- **Nombre:** Mateo Rodríguez
+- **Nombre:** Thomas Nuñez
 - **Carrera:** PUCETEC Desarrollo de software
 - **Fecha de inicio:** 12/06/2026
 
